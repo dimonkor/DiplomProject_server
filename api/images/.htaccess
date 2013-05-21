@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^(original|thumbnail|small)/([\w-]+.[jJ][pP][gG])/?$ qwdsf.php?size=$1&name=$2 [QSA,L]
