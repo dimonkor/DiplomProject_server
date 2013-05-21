@@ -78,7 +78,7 @@ function getUserInfo($user, $password)
 }
 
 function getUserInformationForID($userID){
-	// tmp
+	// do nothing
 }
 
 ?>
